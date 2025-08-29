@@ -2,11 +2,9 @@
 
 /**
  * Plugin Name: Disable Update All
- * Plugin URI:  https://t.me/logbear1
- * Description: Tắt mọi cập nhật tự động, vô hiệu hóa WP Cron và ngăn sửa/xóa plugin theme theo cấu hình do người dùng cung cấp.
+ * Description: Tắt mọi cập nhật tự động, vô hiệu hóa WP Cron và ngăn sửa/xóa plugin/theme.
  * Version:     1.1
  * Author:      logbear
- * Author URI:  https://t.me/logbear1
  * License:     GPLv2 or later
  */
 
